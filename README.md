@@ -1,13 +1,16 @@
 # Xavier Guinness Stout
 
-![Screenshot of WhatsApp](images/whatsapp-screenshot.jpg)
+<img src="Images/Profile.png.jpg" width="100" style="display: block; margin-left: auto; margin-right: auto;" />
 
 ## Contact Information
 
-- **Email**: xavier.guinness@gmail.com
-- **Phone**: (406) 210-6516
-- **LinkedIn**: [linkedin.com/in/xavierguinnessstout](http://www.linkedin.com/in/xavierguinnessstout)
-- **Location**: Butte, Montana
+<img src ="Images/image-1.png" width="13"> **Email**: xavier.guinness@gmail.com
+
+<img src ="Images/image-2.png" width= "13"> **Phone**: (406) 210-6516
+
+<img src="Images/image.png" alt="Screenshot" width="13" /> **LinkedIn**: [ linkedin.com/in/xavierguinnessstout](http://www.linkedin.com/in/xavierguinnessstout)
+
+<img src="Images/image4.png" alt="Screenshot" width="13" /> **Location**: Butte, Montana
 
 ---
 
@@ -17,12 +20,14 @@ Motivated Computer Science and Software Engineering student at Montana Technolog
 
 ---
 
-## Skills
+## ⌨️ Skills Overview
 
-- **Programming Languages**: Python, JavaScript, Java, C++, TypeScript, C, C#
-- **Web Development**: HTML, CSS, React, Node.js
-- **Tools & Frameworks**: Git, Docker, Flask, Django, AWS
-- **Databases**: MySQL, MongoDB, DynamoDB, Access
+| Area            | Technologies                          |
+| --------------- | ------------------------------------- |
+| Languages       | Python, JavaScript, C++, Typescript   |
+| Web Development | HTML, CSS, React, Node.js, Bootstrap  |
+| Databases       | MongoDB, MySQL, DynamoDB              |
+| DevOps & Cloud  | Docker, AWS (Lambda, S3), GitHub, Git |
 
 ---
 
@@ -61,11 +66,14 @@ Motivated Computer Science and Software Engineering student at Montana Technolog
 
 ### Automated Cryptocurrency Trading Bot
 
+> ⚠️ _This project is currently under development. Links coming soon!_
+
 - **Technologies**: Python, AWS, Coinbase API, Coin Gecko API, DynamoDB
 - **Description**: Developed a Python-based bot that automates weekly crypto trades via Coinbase Advanced Trading API. Integrated Coin Gecko API to identify coins with favorable market conditions. Deployed using AWS Lambda (scheduled weekly), with dependencies managed via S3 storage. Used DynamoDB to store historical trade data for decision-making. Implemented SMS alerts via email-to-text for real-time transaction notifications.
-- **Link**: coming soon
 
 ### Online Chat Room
+
+> ⚠️ _This project is currently under development. Links coming soon!_
 
 - **Technologies**: Node.js, Socket.IO, MongoDB, HTML, CSS, Bootstrap
 - **Description**: Developed a real-time chat application using Node.js, Express, and Socket.IO for bidirectional communication. Integrated MongoDB via Mongoose for persistent message storage. Developed frontend UI with HTML/CSS and Bootstrap, allowing live updates of messages and active user count. Used Socket.IO to broadcast chat messages and user activity across all connected clients.
