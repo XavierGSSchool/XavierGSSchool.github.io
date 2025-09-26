@@ -31,7 +31,7 @@ Motivated Computer Science and Software Engineering student at Montana Technolog
 
 ---
 
-## Work Experience
+## 💼 Work Experience
 
 ### Software Developer Intern
 
@@ -44,7 +44,7 @@ Motivated Computer Science and Software Engineering student at Montana Technolog
 
 ---
 
-## Education
+## 📚 Education
 
 ### Bachelor of Science in Computer Science & Software Engineering
 
@@ -62,7 +62,7 @@ Motivated Computer Science and Software Engineering student at Montana Technolog
 
 ---
 
-## Projects
+## 📈 Projects
 
 ### Automated Cryptocurrency Trading Bot
 
@@ -77,6 +77,11 @@ Motivated Computer Science and Software Engineering student at Montana Technolog
 
 - **Technologies**: Node.js, Socket.IO, MongoDB, HTML, CSS, Bootstrap
 - **Description**: Developed a real-time chat application using Node.js, Express, and Socket.IO for bidirectional communication. Integrated MongoDB via Mongoose for persistent message storage. Developed frontend UI with HTML/CSS and Bootstrap, allowing live updates of messages and active user count. Used Socket.IO to broadcast chat messages and user activity across all connected clients.
-- **Link**: coming soon
 
 ---
+
+## 🎯 Hobbies & Interests
+
+- 💰 Cryptocurrency Trading: Analyzing markets, building trading bots, and strategy development.
+- ⛏️ Crypto Mining: Using old raseberry pi to mine crypto currencies
+- Frisbee Disc Golfing: Recreationally exlpore new courses outdoors
